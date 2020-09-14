@@ -1,7 +1,7 @@
 # The iAssistant
-This repo consists of the project I did in my winter training-cum-internship
+This repo consists of the Project I did in my Winter Training-cum-Internship
 
-The project consists of two parts. One of them will be the client, supposingly the admin. First he will be verified by face 
+The project consists of two parts. A Client-side and a Server-side program. The client, supposingly the admin, will be verified by face 
 recognition. Then, he can do following things on any number of systems he wants with just by saying :
  - Install httpd and docker
  - Flushing firewall
